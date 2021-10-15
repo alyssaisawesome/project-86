@@ -1,0 +1,21 @@
+.body_backgorund 
+{
+    background-image:url(a7c98793edb93ab88138283785399af3.gif);
+    background-position: center; 
+    background-size:cover;
+}
+
+#myCanvas {
+    border:ridge;
+    border-width: 10mm;
+
+}
+
+#dearmom {
+    color:white;
+}
+
+#buttonwhitetext {
+    color:white;
+    background:cadetblue;
+}
